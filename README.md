@@ -1,6 +1,6 @@
 # Tech notes
 
-- Read (questions.txt) for questions to the product owner
+- Read [questions.txt](questions.txt) for questions to the product owner
 - Requirements (just requests and pytest) can be installed with Poetry( https://python-poetry.org/docs/ ). 
 - Once poetry is installed, run `poetry install` from repository root to install requirements
 - Run script with `poetry run python -m src.activity_analyzer.cli ge0ffrey`)
