@@ -1,0 +1,4 @@
+Product clarification questions:
+
+1. Who is the audience for this information and how should the information be delivered (e.g. email? dashboard?)
+2. Should this analysis be run on demand or run on some kind of a schedule?
